@@ -1,0 +1,2 @@
+qweqwe;1234;True;1;0;0
+usuario001;0000;True;2;0;1000

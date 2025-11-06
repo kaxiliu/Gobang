@@ -1,0 +1,389 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\liuka\\Desktop\\1\u00BADAM\\proyecto c#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1EDB39E1-E05A-4DD0-A4EE-482D898B04E8}|Gobang\\Gobang.csproj|c:\\users\\liuka\\desktop\\1\u00BAdam\\proyecto c#\\gobang\\registarusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EDB39E1-E05A-4DD0-A4EE-482D898B04E8}|Gobang\\Gobang.csproj|solutionrelative:gobang\\registarusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EDB39E1-E05A-4DD0-A4EE-482D898B04E8}|Gobang\\Gobang.csproj|C:\\Users\\liuka\\Desktop\\1\u00BADAM\\proyecto c#\\gobang\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EDB39E1-E05A-4DD0-A4EE-482D898B04E8}|Gobang\\Gobang.csproj|solutionrelative:gobang\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EDB39E1-E05A-4DD0-A4EE-482D898B04E8}|Gobang\\Gobang.csproj|C:\\Users\\liuka\\Desktop\\1\u00BADAM\\proyecto c#\\gobang\\jugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EDB39E1-E05A-4DD0-A4EE-482D898B04E8}|Gobang\\Gobang.csproj|solutionrelative:gobang\\jugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EDB39E1-E05A-4DD0-A4EE-482D898B04E8}|Gobang\\Gobang.csproj|C:\\Users\\liuka\\Desktop\\1\u00BADAM\\proyecto c#\\gobang\\posicion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EDB39E1-E05A-4DD0-A4EE-482D898B04E8}|Gobang\\Gobang.csproj|solutionrelative:gobang\\posicion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EDB39E1-E05A-4DD0-A4EE-482D898B04E8}|Gobang\\Gobang.csproj|C:\\Users\\liuka\\Desktop\\1\u00BADAM\\proyecto c#\\gobang\\elegirdificultad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1EDB39E1-E05A-4DD0-A4EE-482D898B04E8}|Gobang\\Gobang.csproj|solutionrelative:gobang\\elegirdificultad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EDB39E1-E05A-4DD0-A4EE-482D898B04E8}|Gobang\\Gobang.csproj|C:\\Users\\liuka\\Desktop\\1\u00BADAM\\proyecto c#\\gobang\\elegirmodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1EDB39E1-E05A-4DD0-A4EE-482D898B04E8}|Gobang\\Gobang.csproj|solutionrelative:gobang\\elegirmodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EDB39E1-E05A-4DD0-A4EE-482D898B04E8}|Gobang\\Gobang.csproj|C:\\Users\\liuka\\Desktop\\1\u00BADAM\\proyecto c#\\gobang\\perfilpersonal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1EDB39E1-E05A-4DD0-A4EE-482D898B04E8}|Gobang\\Gobang.csproj|solutionrelative:gobang\\perfilpersonal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EDB39E1-E05A-4DD0-A4EE-482D898B04E8}|Gobang\\Gobang.csproj|C:\\Users\\liuka\\Desktop\\1\u00BADAM\\proyecto c#\\gobang\\gobang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1EDB39E1-E05A-4DD0-A4EE-482D898B04E8}|Gobang\\Gobang.csproj|solutionrelative:gobang\\gobang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EDB39E1-E05A-4DD0-A4EE-482D898B04E8}|Gobang\\Gobang.csproj|C:\\Users\\liuka\\Desktop\\1\u00BADAM\\proyecto c#\\gobang\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EDB39E1-E05A-4DD0-A4EE-482D898B04E8}|Gobang\\Gobang.csproj|solutionrelative:gobang\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EDB39E1-E05A-4DD0-A4EE-482D898B04E8}|Gobang\\Gobang.csproj|C:\\Users\\liuka\\Desktop\\1\u00BADAM\\proyecto c#\\gobang\\perfilpersonal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EDB39E1-E05A-4DD0-A4EE-482D898B04E8}|Gobang\\Gobang.csproj|solutionrelative:gobang\\perfilpersonal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EDB39E1-E05A-4DD0-A4EE-482D898B04E8}|Gobang\\Gobang.csproj|C:\\Users\\liuka\\Desktop\\1\u00BADAM\\proyecto c#\\gobang\\pieza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EDB39E1-E05A-4DD0-A4EE-482D898B04E8}|Gobang\\Gobang.csproj|solutionrelative:gobang\\pieza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EDB39E1-E05A-4DD0-A4EE-482D898B04E8}|Gobang\\Gobang.csproj|C:\\Users\\liuka\\Desktop\\1\u00BADAM\\proyecto c#\\gobang\\casilla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EDB39E1-E05A-4DD0-A4EE-482D898B04E8}|Gobang\\Gobang.csproj|solutionrelative:gobang\\casilla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EDB39E1-E05A-4DD0-A4EE-482D898B04E8}|Gobang\\Gobang.csproj|C:\\Users\\liuka\\Desktop\\1\u00BADAM\\proyecto c#\\gobang\\elegirdificultad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EDB39E1-E05A-4DD0-A4EE-482D898B04E8}|Gobang\\Gobang.csproj|solutionrelative:gobang\\elegirdificultad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EDB39E1-E05A-4DD0-A4EE-482D898B04E8}|Gobang\\Gobang.csproj|C:\\Users\\liuka\\Desktop\\1\u00BADAM\\proyecto c#\\gobang\\tablero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EDB39E1-E05A-4DD0-A4EE-482D898B04E8}|Gobang\\Gobang.csproj|solutionrelative:gobang\\tablero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EDB39E1-E05A-4DD0-A4EE-482D898B04E8}|Gobang\\Gobang.csproj|C:\\Users\\liuka\\Desktop\\1\u00BADAM\\proyecto c#\\gobang\\gobang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EDB39E1-E05A-4DD0-A4EE-482D898B04E8}|Gobang\\Gobang.csproj|solutionrelative:gobang\\gobang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EDB39E1-E05A-4DD0-A4EE-482D898B04E8}|Gobang\\Gobang.csproj|C:\\Users\\liuka\\Desktop\\1\u00BADAM\\proyecto c#\\gobang\\elegirmodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EDB39E1-E05A-4DD0-A4EE-482D898B04E8}|Gobang\\Gobang.csproj|solutionrelative:gobang\\elegirmodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EDB39E1-E05A-4DD0-A4EE-482D898B04E8}|Gobang\\Gobang.csproj|C:\\Users\\liuka\\Desktop\\1\u00BADAM\\proyecto c#\\gobang\\jugadoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EDB39E1-E05A-4DD0-A4EE-482D898B04E8}|Gobang\\Gobang.csproj|solutionrelative:gobang\\jugadoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EDB39E1-E05A-4DD0-A4EE-482D898B04E8}|Gobang\\Gobang.csproj|C:\\Users\\liuka\\Desktop\\1\u00BADAM\\proyecto c#\\gobang\\jugadorhumano.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EDB39E1-E05A-4DD0-A4EE-482D898B04E8}|Gobang\\Gobang.csproj|solutionrelative:gobang\\jugadorhumano.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EDB39E1-E05A-4DD0-A4EE-482D898B04E8}|Gobang\\Gobang.csproj|C:\\Users\\liuka\\Desktop\\1\u00BADAM\\proyecto c#\\gobang\\registarusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1EDB39E1-E05A-4DD0-A4EE-482D898B04E8}|Gobang\\Gobang.csproj|solutionrelative:gobang\\registarusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\liuka\\Desktop\\1\u00BADAM\\proyecto c#\\Gobang\\Program.cs",
+              "RelativeDocumentMoniker": "Gobang\\Program.cs",
+              "ToolTip": "C:\\Users\\liuka\\Desktop\\1\u00BADAM\\proyecto c#\\Gobang\\Program.cs",
+              "RelativeToolTip": "Gobang\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T12:09:09.997Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GoBang.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\liuka\\Desktop\\1\u00BADAM\\proyecto c#\\Gobang\\GoBang.cs",
+              "RelativeDocumentMoniker": "Gobang\\GoBang.cs",
+              "ToolTip": "C:\\Users\\liuka\\Desktop\\1\u00BADAM\\proyecto c#\\Gobang\\GoBang.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Gobang\\GoBang.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T18:43:08.515Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PerfilPersonal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\liuka\\Desktop\\1\u00BADAM\\proyecto c#\\Gobang\\PerfilPersonal.cs",
+              "RelativeDocumentMoniker": "Gobang\\PerfilPersonal.cs",
+              "ToolTip": "C:\\Users\\liuka\\Desktop\\1\u00BADAM\\proyecto c#\\Gobang\\PerfilPersonal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Gobang\\PerfilPersonal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T12:10:33.349Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ElegirModo.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\liuka\\Desktop\\1\u00BADAM\\proyecto c#\\Gobang\\ElegirModo.cs",
+              "RelativeDocumentMoniker": "Gobang\\ElegirModo.cs",
+              "ToolTip": "C:\\Users\\liuka\\Desktop\\1\u00BADAM\\proyecto c#\\Gobang\\ElegirModo.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Gobang\\ElegirModo.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T12:08:47.044Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ElegirDificultad.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\liuka\\Desktop\\1\u00BADAM\\proyecto c#\\Gobang\\ElegirDificultad.cs",
+              "RelativeDocumentMoniker": "Gobang\\ElegirDificultad.cs",
+              "ToolTip": "C:\\Users\\liuka\\Desktop\\1\u00BADAM\\proyecto c#\\Gobang\\ElegirDificultad.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Gobang\\ElegirDificultad.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T12:08:39.802Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RegistarUsuario.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\liuka\\Desktop\\1\u00BADAM\\proyecto c#\\Gobang\\RegistarUsuario.cs",
+              "RelativeDocumentMoniker": "Gobang\\RegistarUsuario.cs",
+              "ToolTip": "C:\\Users\\liuka\\Desktop\\1\u00BADAM\\proyecto c#\\Gobang\\RegistarUsuario.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Gobang\\RegistarUsuario.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T10:17:48.095Z",
+              "IsPinned": true,
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Posicion.cs",
+              "DocumentMoniker": "C:\\Users\\liuka\\Desktop\\1\u00BADAM\\proyecto c#\\Gobang\\Posicion.cs",
+              "RelativeDocumentMoniker": "Gobang\\Posicion.cs",
+              "ToolTip": "C:\\Users\\liuka\\Desktop\\1\u00BADAM\\proyecto c#\\Gobang\\Posicion.cs",
+              "RelativeToolTip": "Gobang\\Posicion.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T12:09:09.207Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Casilla.cs",
+              "DocumentMoniker": "C:\\Users\\liuka\\Desktop\\1\u00BADAM\\proyecto c#\\Gobang\\Casilla.cs",
+              "RelativeDocumentMoniker": "Gobang\\Casilla.cs",
+              "ToolTip": "C:\\Users\\liuka\\Desktop\\1\u00BADAM\\proyecto c#\\Gobang\\Casilla.cs",
+              "RelativeToolTip": "Gobang\\Casilla.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T12:08:38.763Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Pieza.cs",
+              "DocumentMoniker": "C:\\Users\\liuka\\Desktop\\1\u00BADAM\\proyecto c#\\Gobang\\Pieza.cs",
+              "RelativeDocumentMoniker": "Gobang\\Pieza.cs",
+              "ToolTip": "C:\\Users\\liuka\\Desktop\\1\u00BADAM\\proyecto c#\\Gobang\\Pieza.cs",
+              "RelativeToolTip": "Gobang\\Pieza.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T12:09:08.432Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\liuka\\Desktop\\1\u00BADAM\\proyecto c#\\Gobang\\Usuario.cs",
+              "RelativeDocumentMoniker": "Gobang\\Usuario.cs",
+              "ToolTip": "C:\\Users\\liuka\\Desktop\\1\u00BADAM\\proyecto c#\\Gobang\\Usuario.cs",
+              "RelativeToolTip": "Gobang\\Usuario.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T10:21:20.872Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "JugadorHumano.cs",
+              "DocumentMoniker": "C:\\Users\\liuka\\Desktop\\1\u00BADAM\\proyecto c#\\Gobang\\JugadorHumano.cs",
+              "RelativeDocumentMoniker": "Gobang\\JugadorHumano.cs",
+              "ToolTip": "C:\\Users\\liuka\\Desktop\\1\u00BADAM\\proyecto c#\\Gobang\\JugadorHumano.cs",
+              "RelativeToolTip": "Gobang\\JugadorHumano.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T12:09:03.175Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Jugador.cs",
+              "DocumentMoniker": "C:\\Users\\liuka\\Desktop\\1\u00BADAM\\proyecto c#\\Gobang\\Jugador.cs",
+              "RelativeDocumentMoniker": "Gobang\\Jugador.cs",
+              "ToolTip": "C:\\Users\\liuka\\Desktop\\1\u00BADAM\\proyecto c#\\Gobang\\Jugador.cs",
+              "RelativeToolTip": "Gobang\\Jugador.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAIwJ4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T12:09:00.221Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "JugadorIA.cs",
+              "DocumentMoniker": "C:\\Users\\liuka\\Desktop\\1\u00BADAM\\proyecto c#\\Gobang\\JugadorIA.cs",
+              "RelativeDocumentMoniker": "Gobang\\JugadorIA.cs",
+              "ToolTip": "C:\\Users\\liuka\\Desktop\\1\u00BADAM\\proyecto c#\\Gobang\\JugadorIA.cs",
+              "RelativeToolTip": "Gobang\\JugadorIA.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T12:09:04.168Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PerfilPersonal.cs",
+              "DocumentMoniker": "C:\\Users\\liuka\\Desktop\\1\u00BADAM\\proyecto c#\\Gobang\\PerfilPersonal.cs",
+              "RelativeDocumentMoniker": "Gobang\\PerfilPersonal.cs",
+              "ToolTip": "C:\\Users\\liuka\\Desktop\\1\u00BADAM\\proyecto c#\\Gobang\\PerfilPersonal.cs",
+              "RelativeToolTip": "Gobang\\PerfilPersonal.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAkwD4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T13:40:29.874Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegistarUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\liuka\\Desktop\\1\u00BADAM\\proyecto c#\\Gobang\\RegistarUsuario.cs",
+              "RelativeDocumentMoniker": "Gobang\\RegistarUsuario.cs",
+              "ToolTip": "C:\\Users\\liuka\\Desktop\\1\u00BADAM\\proyecto c#\\Gobang\\RegistarUsuario.cs",
+              "RelativeToolTip": "Gobang\\RegistarUsuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAG8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T10:17:50.074Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ElegirModo.cs",
+              "DocumentMoniker": "C:\\Users\\liuka\\Desktop\\1\u00BADAM\\proyecto c#\\Gobang\\ElegirModo.cs",
+              "RelativeDocumentMoniker": "Gobang\\ElegirModo.cs",
+              "ToolTip": "C:\\Users\\liuka\\Desktop\\1\u00BADAM\\proyecto c#\\Gobang\\ElegirModo.cs",
+              "RelativeToolTip": "Gobang\\ElegirModo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T13:43:52.455Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ElegirDificultad.cs",
+              "DocumentMoniker": "C:\\Users\\liuka\\Desktop\\1\u00BADAM\\proyecto c#\\Gobang\\ElegirDificultad.cs",
+              "RelativeDocumentMoniker": "Gobang\\ElegirDificultad.cs",
+              "ToolTip": "C:\\Users\\liuka\\Desktop\\1\u00BADAM\\proyecto c#\\Gobang\\ElegirDificultad.cs",
+              "RelativeToolTip": "Gobang\\ElegirDificultad.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T13:43:59.868Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GoBang.cs",
+              "DocumentMoniker": "C:\\Users\\liuka\\Desktop\\1\u00BADAM\\proyecto c#\\Gobang\\GoBang.cs",
+              "RelativeDocumentMoniker": "Gobang\\GoBang.cs",
+              "ToolTip": "C:\\Users\\liuka\\Desktop\\1\u00BADAM\\proyecto c#\\Gobang\\GoBang.cs",
+              "RelativeToolTip": "Gobang\\GoBang.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAkwHgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T11:51:45.732Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3fd5e0cc-709a-4f8c-94c3-7f0f8dff5bb2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{55f480fa-fbef-4386-8c1c-ea8d10c9f542}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Tablero.cs",
+              "DocumentMoniker": "C:\\Users\\liuka\\Desktop\\1\u00BADAM\\proyecto c#\\Gobang\\Tablero.cs",
+              "RelativeDocumentMoniker": "Gobang\\Tablero.cs",
+              "ToolTip": "C:\\Users\\liuka\\Desktop\\1\u00BADAM\\proyecto c#\\Gobang\\Tablero.cs",
+              "RelativeToolTip": "Gobang\\Tablero.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T11:35:30.128Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 188,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

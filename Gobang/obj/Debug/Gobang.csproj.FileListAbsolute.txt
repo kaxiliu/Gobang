@@ -1,0 +1,30 @@
+C:\Users\Estudiant\source\repos\Gobang\Gobang\bin\Debug\Gobang.exe.config
+C:\Users\Estudiant\source\repos\Gobang\Gobang\bin\Debug\Gobang.exe
+C:\Users\Estudiant\source\repos\Gobang\Gobang\bin\Debug\Gobang.pdb
+C:\Users\Estudiant\source\repos\Gobang\Gobang\obj\Debug\Gobang.csproj.AssemblyReference.cache
+C:\Users\Estudiant\source\repos\Gobang\Gobang\obj\Debug\Gobang.Properties.Resources.resources
+C:\Users\Estudiant\source\repos\Gobang\Gobang\obj\Debug\Gobang.csproj.GenerateResource.cache
+C:\Users\Estudiant\source\repos\Gobang\Gobang\obj\Debug\Gobang.csproj.CoreCompileInputs.cache
+C:\Users\Estudiant\source\repos\Gobang\Gobang\obj\Debug\Gobang.exe
+C:\Users\Estudiant\source\repos\Gobang\Gobang\obj\Debug\Gobang.pdb
+C:\Users\Estudiant\source\repos\Gobang\Gobang\obj\Debug\Gobang.GoBang.resources
+C:\Users\Estudiant\source\repos\Gobang\Gobang\obj\Debug\Gobang.RegistarUsuario.resources
+C:\Users\Estudiant\source\repos\Gobang\Gobang\obj\Debug\Gobang.ElegirModo.resources
+C:\Users\Estudiant\source\repos\Gobang\Gobang\obj\Debug\Gobang.PerfilPersonal.resources
+C:\Users\Estudiant\source\repos\Gobang\Gobang\bin\Debug\jugador.txt
+C:\Users\Estudiant\source\repos\Gobang\Gobang\obj\Debug\Gobang.ElegirDificultad.resources
+C:\Users\liuka\Desktop\1ºDAM\proyecto c#\Gobang\bin\Debug\jugador.txt
+C:\Users\liuka\Desktop\1ºDAM\proyecto c#\Gobang\bin\Debug\Gobang.exe.config
+C:\Users\liuka\Desktop\1ºDAM\proyecto c#\Gobang\bin\Debug\Gobang.exe
+C:\Users\liuka\Desktop\1ºDAM\proyecto c#\Gobang\bin\Debug\Gobang.pdb
+C:\Users\liuka\Desktop\1ºDAM\proyecto c#\Gobang\obj\Debug\Gobang.csproj.AssemblyReference.cache
+C:\Users\liuka\Desktop\1ºDAM\proyecto c#\Gobang\obj\Debug\Gobang.ElegirDificultad.resources
+C:\Users\liuka\Desktop\1ºDAM\proyecto c#\Gobang\obj\Debug\Gobang.ElegirModo.resources
+C:\Users\liuka\Desktop\1ºDAM\proyecto c#\Gobang\obj\Debug\Gobang.GoBang.resources
+C:\Users\liuka\Desktop\1ºDAM\proyecto c#\Gobang\obj\Debug\Gobang.PerfilPersonal.resources
+C:\Users\liuka\Desktop\1ºDAM\proyecto c#\Gobang\obj\Debug\Gobang.Properties.Resources.resources
+C:\Users\liuka\Desktop\1ºDAM\proyecto c#\Gobang\obj\Debug\Gobang.RegistarUsuario.resources
+C:\Users\liuka\Desktop\1ºDAM\proyecto c#\Gobang\obj\Debug\Gobang.csproj.GenerateResource.cache
+C:\Users\liuka\Desktop\1ºDAM\proyecto c#\Gobang\obj\Debug\Gobang.csproj.CoreCompileInputs.cache
+C:\Users\liuka\Desktop\1ºDAM\proyecto c#\Gobang\obj\Debug\Gobang.exe
+C:\Users\liuka\Desktop\1ºDAM\proyecto c#\Gobang\obj\Debug\Gobang.pdb

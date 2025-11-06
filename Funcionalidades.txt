@@ -1,0 +1,94 @@
+------------Funcionalidades que ya implementado ---------
+
+Registro e Inicio de Sesión:
+-Creación de usuarios con nombre y contraseña.
+-Validación de credenciales al iniciar sesión. 
+
+Perfil de Personal:
+-Visualización del nombre de usuario y numeros de victorias/derrotas
+
+Elegir Modo:
+-Poder seleccionar que es ModoAmigo o ModoIA
+
+
+Tablero:
+-tamaño 15x15
+-IniciarTablero()
+-DibujarTablero()
+
+Pieza:
+-DibujarPieza()
+-ReDibujar()
+
+Usuario:
+-CargarUsuario()
+-GuardarUsuario()
+-ValidaUsuario()  --Comprobar si existe el usuario
+
+Jugador:
+-CargarJugador()
+-GuardarJugador()
+
+Gobang.cs
+-Colocar las piezas para probar (así que no añadir este metodo a Tablero.cs)
+	-->ColocarPiezasIniciales();
+-Cargar el juego inicia
+	-->GoBang_Load();
+-Dibujar el panel
+	-->panel1_Paint();
+-Dibujar el pieza y también poder cambiar turno(PiezaEsNegra=!PiezaEsNegra)
+	-->panel1_MouseDown();
+
+
+
+
+--------------------Instrucciones de Uso:---------------------
+
+Cuando entramos al juego, habia un tablero de Gobang a la izquierda 
+y algunas opciones a la derecha.
+
+-La primera opción es la sesión de Registrador/Inicio,
+	Cuando presionamos el botón,aparecerá un cuadro 
+	que solicitando el nombre de usuario y la contraseña, 
+	y podrá elegir entre registrarse o iniciar sesión. 
+
+	Si no completa la información completa, se le solicitará que la complete.
+	Al registrar un usuario se guardará el contenido en usuario.txt, 
+	y al iniciar sesión el usuario leerá el contenido del archivo, 
+	si existe, el usuario es correcto. 
+	Si no existe, se mostrará un error de usuario 
+	y se le pedirá que vuelva a ingresar su nombre y contraseña.
+
+
+-Cuando presionamos la tecla comenzar, 
+	realmente podemos iniciar el juego 
+	y le pediremos al usuario que el Modo de Juego(Amigo/IA). 
+	Los usuarios pueden elegir según sus preferencias. 
+	Una vez que selecciones uno de ellos, 
+	el juego comenzará oficialmente. 
+	Habrá una línea de texto en la esquina superior derecha 
+	que le indicará si el usuario actual tiene una pieza negra o una blanca.
+
+
+-Una vez que presionamos en el botón reiniciar, 
+	el tablero se reiniciará, 
+	todas las piezas del tablero se borrarán
+	y el juego le preguntará a Modo.
+
+
+-Perfil Personal mostrará información del jugador, 
+	incluyendo el nombre del jugador, victorias y derrotas 
+	y la porcentajes de victorias.
+
+
+-Existir sale del juego directamente.
+
+
+
+--------Cosa que necesito avanzar-------
+1.La regla de las ganancias o perdidas(Hago un nuevo clase o funcion mejor?..
+2.Guadar ganancias... y Mostar al Perfil Personal
+3.Modo IA (IA juega al azar? O juega junto a la pieza del usuario.)
+4.RegistarUsuario (Si ya existe el nombre de Usuario...
+
+
